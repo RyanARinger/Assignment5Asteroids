@@ -4,9 +4,10 @@ import org.junit.Test;
 
 public class AsteroidsGameTest {
 
+	@Ignore
 	@Test
 	public void testKillPlayer() {
-		assert(true);
+		fail("Not yet implemented");
 	}
 
 }
