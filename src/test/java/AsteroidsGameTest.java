@@ -7,7 +7,7 @@ public class AsteroidsGameTest {
 	@Test
 	public void testKillPlayer() {
 		//fail("Not yet implemented");
-		System.out.println("asdsdxv");
+		System.out.println("aefa");
 		assertEquals(true, true);
 	}
 
