@@ -8,7 +8,7 @@ public class AsteroidsGameTest {
 	public void testKillPlayer() {
 		System.out.println("Hello World_6");
 		//assertEquals(true, true);
-		fail("this sucks");
+		fail("maybe?");
 	}
 
 }
