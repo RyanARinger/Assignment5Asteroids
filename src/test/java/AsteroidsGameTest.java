@@ -7,7 +7,7 @@ public class AsteroidsGameTest {
 	@Test
 	public void testKillPlayer() {
 		System.out.println("Hello World Demonstration 2");
-		//This is balls
+		//This is ballss
 		assertEquals(true, true);
 	}
 
