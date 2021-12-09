@@ -7,8 +7,6 @@ public class AsteroidsGameTest {
 	@Test
 	public void testKillPlayer() {
 		System.out.println("Hello World Demonstration and Integration Test")
-		//redo
-		
 		assertEquals(true, true);
 	}
 
